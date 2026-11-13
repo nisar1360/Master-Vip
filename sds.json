@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://<your-github-username>.github.io/<repo-name>/WarCommander.js"
+        "url": "https://github.com/nisar1360/Master-Vip/blob/main/sds.json"
       }
     },
     "condition": {
